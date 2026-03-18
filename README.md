@@ -83,7 +83,7 @@ Failed actions
 
 **Project Screenshots**
 
-![RBAC](screenshots/RBACrole_Assignment.pngscreenshots/role_assignment_event.png)
+![RBAC](screenshots/RBACrole_Assignment.png)
 ![Incidents](screenshots/Security_INC_Failed_resource_group_logs.pngscreenshots/resource-deletion.pngscreenshots/temp_resource_creation.pngscreenshots/Dylan_Authorization_failed.png)
 ![Groups,Users$Roles](screenshots/)
 
